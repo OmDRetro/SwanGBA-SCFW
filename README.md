@@ -1,3 +1,7 @@
+## Foreword
+
+This is simply a fork where I test out builds to be used in SCFW.
+
 # SwanGBA V0.6.4
 
 <img align="right" width="220" src="./logo.png" />
